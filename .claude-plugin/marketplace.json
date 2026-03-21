@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kosmo-plugins",
+  "description": "KosmoCHE's Claude Code plugins for git workflow and research experiment management",
+  "owner": {
+    "name": "KosmoCHE",
+    "email": "kosmoche@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "git-command",
+      "description": "Git workflow commands using Conventional Commits format, including commit, push-pr, amend, squash, and branch cleanup",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/KosmoCHE/git-command.git",
+        "sha": "f2e6554cabfa1e8b8786b1810b6363a8ee42041d"
+      },
+      "category": "development"
+    },
+    {
+      "name": "experiment-log",
+      "description": "科研实验管理插件：初始化实验结构、创建新实验、归档实验、查看实验状态",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/KosmoCHE/experiment-log.git",
+        "sha": "119ae04999e74b830545ceae26effff0c0c57cc8"
+      },
+      "category": "productivity"
+    }
+  ]
+}
