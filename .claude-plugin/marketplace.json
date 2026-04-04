@@ -11,9 +11,8 @@
       "name": "git-command",
       "description": "Git workflow commands using Conventional Commits format, including commit, push-pr, amend, squash, and branch cleanup",
       "source": {
-        "source": "github",
-        "repo": "KosmoCHE/git-command",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/KosmoCHE/git-command"
       },
       "category": "development"
     },
@@ -21,9 +20,8 @@
       "name": "experiment-log",
       "description": "科研实验管理插件：初始化实验结构、创建新实验、归档实验、查看实验状态",
       "source": {
-        "source": "github",
-        "repo": "KosmoCHE/experiment-log",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/KosmoCHE/experiment-log"
       },
       "category": "productivity"
     }
