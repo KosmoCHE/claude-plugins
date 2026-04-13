@@ -1,0 +1,9 @@
+{
+  "name": "git-command",
+  "version": "1.0.0",
+  "description": "Git workflow skills using Conventional Commits format: commit, amend, push-pr, squash, clean-gone, merge, and sync",
+  "author": {
+    "name": "KosmoCHE"
+  },
+  "license": "MIT"
+}

@@ -10,10 +10,7 @@
     {
       "name": "git-command",
       "description": "Git workflow skills using Conventional Commits format: commit, amend, push-pr, squash, clean-gone, merge, and sync",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/KosmoCHE/git-command"
-      },
+      "source": "./git-command",
       "category": "development"
     },
     {
