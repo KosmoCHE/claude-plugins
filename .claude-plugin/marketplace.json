@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "git-command",
-      "description": "Git workflow commands using Conventional Commits format, including commit, push-pr, amend, squash, and branch cleanup",
+      "description": "Git workflow skills using Conventional Commits format: commit, amend, push-pr, squash, clean-gone, merge, and sync",
       "source": {
         "source": "url",
         "url": "https://github.com/KosmoCHE/git-command"
