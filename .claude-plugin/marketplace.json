@@ -21,6 +21,16 @@
         "url": "https://github.com/KosmoCHE/experiment-log"
       },
       "category": "productivity"
+    },
+    {
+      "name": "codex",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/codex-plugin-cc",
+        "path": "plugins/codex"
+      },
+      "category": "development"
     }
   ]
 }
